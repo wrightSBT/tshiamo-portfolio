@@ -2,7 +2,7 @@
 
 > Personal portfolio website showcasing my work across software development, digital products, systems, and technology.
 
-**Live Website:** [Add your Vercel URL here]  
+**Live Website:** https://tshiamosebate.vercel.app/  
 **GitHub:** [github.com/wrightSBT](https://github.com/wrightSBT)  
 **LinkedIn:** [linkedin.com/in/tshiamo-sebate-a554bb292](https://www.linkedin.com/in/tshiamo-sebate-a554bb292/)
 
